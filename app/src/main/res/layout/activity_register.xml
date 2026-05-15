@@ -1,0 +1,6 @@
+<!--  FIX: Layout sebelumnya kosong (hanya LinearLayout tanpa konten)  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="24dp" android:gravity="center">
+    <EditText android:id="@+id/etUsername" android:layout_width="match_parent" android:layout_height="56dp" android:hint="Username" android:inputType="text" android:autofillHints="username" android:layout_marginBottom="12dp"/>
+    <EditText android:id="@+id/etPassword" android:layout_width="match_parent" android:layout_height="56dp" android:hint="Password" android:inputType="textPassword" android:autofillHints="newPassword" android:layout_marginBottom="12dp"/>
+    <Button android:id="@+id/btnRegister" android:layout_width="match_parent" android:layout_height="56dp" android:text="DAFTAR"/>
+</LinearLayout>
