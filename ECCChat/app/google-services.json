@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675619737688",
+    "project_id": "eccchat",
+    "storage_bucket": "eccchat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675619737688:android:7f603192890f5765ef7a2d",
+        "android_client_info": {
+          "package_name": "com.example.eccchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk2feOtkbEhq_KHjUGOMniAM7i4dREJgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
