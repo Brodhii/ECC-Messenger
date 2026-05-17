@@ -1,4 +1,4 @@
-package com.eccchat.app.ui.theme
+package com.example.eccchat.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

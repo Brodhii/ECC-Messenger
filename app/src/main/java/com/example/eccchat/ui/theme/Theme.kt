@@ -1,4 +1,4 @@
-package com.eccchat.app.ui.theme
+package com.example.eccchat.ui.theme
 
 import android.app.Activity
 import android.os.Build

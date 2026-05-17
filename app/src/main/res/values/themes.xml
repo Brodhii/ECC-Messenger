@@ -1,9 +1,4 @@
 <resources>
-    <!--  FIX: Ganti android:Theme.Material.Light.NoActionBar yang memerlukan API lama
-             ke Theme.AppCompat agar kompatibel dengan AppCompatActivity  -->
-    <style name="Theme.ECCChat" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">@color/purple_700</item>
-        <item name="colorAccent">@color/teal_200</item>
+    <style name="Theme.ECCChat" parent="android:Theme.Material.Light.NoActionBar">
     </style>
 </resources>
